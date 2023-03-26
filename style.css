@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.logo {
+    position: relative;
+    left: 30px;
+}
+
+.A {
+    display: inline-block;
+}
+
+.navcontents {
+    display: inline-block;
+    position: relative;
+    top: 25px;
+    text-align: right;
+    float: right;
+    font-size: 2 rem;
+    padding: 5px;
+    color: black;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 5px;
+    color: black;
+}
+
+nav {
+    position: relative;
+    width: 100vw;
+    border: 2px solid black;
+}
+
+div {
+    display: inline-block;
+}
+
+h1 {
+    padding: 6% 8%;
+    font-family: sans-serif;
+    font-size: 2.5rem;
+}
+
+.description {
+    padding: 0px 8%;
+    font-family: sans-serif;
+    font-size: 22px;
+    text-align: justify;
+}
+pre{
+    display:inline;
+}
+
+.team {
+    padding: 4% 8%;
+}
+
+.desc {
+    padding: 0px;
+}
+#team{
+    padding:5px 8%;
+}
+#team div{
+    margin:6%;
+}
+#team img{
+    height:200 px;
+    width:200 px;
+    border-radius:50%;
+}
